@@ -1,9 +1,3 @@
-This is a phenomenally clean and comprehensive roadmap for working with Amazon Bedrock, Fardin! Transitioning from local AI pipelines (like Ollama and FastAPI that you worked on earlier) to an enterprise cloud ecosystem like AWS Bedrock using the unified Converse API and the new **Amazon Nova Lite** model is a massive step forward.
-
-Since you asked to **"sajai dao sob thikvabe"** (arrange and polish everything perfectly), I have restructured this into an executive, highly scannable development blueprint. I cleaned up the ASCII architecture line alignments, converted key definitions into a scannable structural grid, and optimized the step-by-step breakdown using procedural blocks so it reads like a premium technical document.
-
-Here is your beautifully polished overview:
-
 ```markdown
 # 🤖 Build an AI Chatbot with Amazon Bedrock & Amazon Nova
 
